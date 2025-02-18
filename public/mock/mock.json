@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "carManufacturer": "TOYOTA",
+        "carModel": "YARIS",
+        "exteriorColour": "WHITE",        
+        "price": 6300.00,        
+        "carImageUrls": [
+            "https://al-kobaisi-models.s3.eu-north-1.amazonaws.com/car_models/1+Toyota+Yaris+White+2024+.png"
+        ]
+    },
+    {
+        "id": 2,
+        "carManufacturer": "TOYOTA",
+        "carModel": "CAMRY LE",
+        "exteriorColour": "SILVER",
+        "price": 12650.00,        
+        "carImageUrls": [
+            "https://al-kobaisi-models.s3.eu-north-1.amazonaws.com/car_models/005+Toyota+Camry+Le+Silver+2025.avif"
+        ]
+    },
+    {
+        "id": 3,
+        "carManufacturer": "TOYOTA",
+        "carModel": "URBAN CRUISER",
+        "exteriorColour": "WHITE",
+        "price": 9500.00,
+        "carImageUrls": [
+            "https://al-kobaisi-models.s3.eu-north-1.amazonaws.com/car_models/006+Toyota+Urban+Cruiser+2025.png"
+        ]
+    },
+    {
+        "id": 4,
+        "carManufacturer": "TOYOTA",
+        "carModel": "RAIZE",
+        "exteriorColour": null,
+        "price": 7150.00,
+        "carImageUrls": [
+            "https://al-kobaisi-models.s3.eu-north-1.amazonaws.com/car_models/002+Toyota+Raize+2024.jpg"
+        ]
+    }
+]

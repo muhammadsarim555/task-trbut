@@ -1,8 +1,14 @@
 module.exports = {
-    content: ["./src/**/*.{js,jsx,ts,tsx}"], // Ensure this covers your components
-    theme: {
-      extend: {},
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: "#6B46C1",
+          foreground: "#000000",
+        },
+      },
     },
-    plugins: [],
-  };
-  
+  },
+  plugins: [],
+};
